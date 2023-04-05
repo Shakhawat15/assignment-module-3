@@ -4,6 +4,6 @@
 
 ### JavaScript ES6
 
-[Netlify Link]()
+[Netlify Link](https://lambent-twilight-cd15ec.netlify.app/)
 
-[Gitgub Link]()
+[Gitgub Link](https://shakhawat15.github.io/assignment-module-3/)
